@@ -1,0 +1,1 @@
+import{Mt as e,Nt as t}from"./index-BXdsXit-.js";var n=t(`<div class="container-fluid d-flex align-items-center" style="margin-top: 10px"><i class="mdi mdi-sync mdi-spin font-50px"></i> <h4>Loading...</h4></div>`);function r(t){var r=n();e(t,r)}export{r as default};
