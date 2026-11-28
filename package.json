@@ -1,0 +1,10 @@
+{
+  "name": "test-slickgrid-svelte",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cd with-i18n-translate && npm install && npm run dev"
+  },
+  "private": false,
+  "dependencies": {}
+}
