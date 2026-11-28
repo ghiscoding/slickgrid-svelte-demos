@@ -177,7 +177,7 @@
     <ul class="nav nav-pills nav-stacked">
       <li class="nav-item fw-bold nav-docs">
         <a class="nav-link" href="https://ghiscoding.gitbook.io/slickgrid-svelte/">
-          📘 Documentation
+          📕 Documentation
         </a>
       </li>
       {#each examples as example (example.id)}
