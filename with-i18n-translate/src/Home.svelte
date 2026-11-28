@@ -14,7 +14,7 @@
 <p>
   The documentation is available in the
   <a
-    href="https://github.com/ghiscoding/slickgrid-universal/tree/master/frameworks/slickgrid-svelte#readme"
+    href="https://ghiscoding.gitbook.io/slickgrid-svelte/"
     target="_blank"
     rel="noreferrer"
   >
@@ -23,7 +23,7 @@
   <br />
   The
   <a
-    href="https://github.com/ghiscoding/slickgrid-universal/tree/master/frameworks/slickgrid-svelte#quick-start"
+    href="https://ghiscoding.gitbook.io/slickgrid-svelte/getting-started/quick-start"
     target="_blank"
     rel="noreferrer"
   >
